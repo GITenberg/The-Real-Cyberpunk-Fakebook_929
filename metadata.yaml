@@ -1,0 +1,35 @@
+_repo: The-Real-Cyberpunk-Fakebook_929
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: St. Jude
+    aliases:
+    - Saint Jude
+    - Milhon, Jude
+    gutenberg_agent_id: '478'
+    url: http://www.gutenberg.org/2009/agents/478
+  - agent_name: Sirius, R. U.
+    alias: Goffman, Ken
+    birthdate: 1952
+    gutenberg_agent_id: '479'
+    url: http://www.gutenberg.org/2009/agents/479
+    wikipedia: http://en.wikipedia.org/wiki/R._U._Sirius
+  - agent_name: Nagel, Bart
+    gutenberg_agent_id: '35811'
+    url: http://www.gutenberg.org/2009/agents/35811
+description: Contains the first three and half chapters.
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '929'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'QA'
+- !lcsh 'Computers and civilization'
+- !lcsh 'Computer hackers'
+- GITenberg
+title: The Real Cyberpunk Fakebook
+url: http://www.gutenberg.org/ebooks/929
